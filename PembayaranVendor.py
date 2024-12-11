@@ -1,7 +1,8 @@
 import csv
 import sys
 from datetime import datetime
-
+import os
+os.system('cls')
 if __name__ == "__main__":
     print("Anda Tidak Bisa Menjalankan Program Ini Secara Langsung, Harus Melalui ProgramUtama.py Terlebih Dahulu!")
     sys.exit()

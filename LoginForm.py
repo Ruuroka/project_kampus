@@ -1,5 +1,6 @@
 import sys
-
+import os
+os.system('cls')
 if __name__ == "__main__":
     print("Anda Tidak Bisa Menjalankan Program Ini Secara Langsung, Harus Melalui ProgramUtama.py Terlebih Dahulu!")
     sys.exit()
@@ -16,7 +17,7 @@ print(garis.center(40))
 print("Login Form".upper().center(40))
 user = input("Username  : ")
 pw   = input("Password  : ")
-if user== "gaikindo-kelompok-f" and pw== "ilham,zaid&stephen-_-" :
+if user== "steilza" and pw== "696969" :
   print("")
   print(baris.center(40))
   print("")
